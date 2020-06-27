@@ -1,0 +1,68 @@
+.main{
+    border: 2px solid gray;
+    border-width: 3px;
+    border-radius: 20px;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px 10px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.result{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    border-color: whitesmoke;
+    width: 95%;
+    height: 25px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    
+    
+}
+
+.clear{
+    width: 20%;
+    margin-top: 10px;
+    background-color: yellow;
+    border-radius: 100px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.btn{
+    background-color: gray;
+    width: 45px;
+    margin-left: 5px;
+    margin-top: 5px ;
+    border-radius: 25px;
+}
+
+.operator, .bracket{
+    width: 30px;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 50%;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn2{
+    background-color: gray;
+     width: 70.01%;
+     margin-left:  10px;
+     margin-right: 6px;
+     margin-top: 10px ;
+     height: 23px;
+     border-radius: 25px;   
+}
+
+.operator1{
+    width: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 30px;
+    border-radius: 50%;   
+}
